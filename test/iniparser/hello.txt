@@ -1,0 +1,22 @@
+
+[share]
+path                           = value3
+
+
+[goo]
+jj                             = /mnt/tmp
+jkk                            = 4
+dakjhg                         = 6
+
+
+[public]
+user                           = root
+
+
+[dakjg]
+dalkgnj                        = dakjg
+dakngj                         = daklgj
+
+[goojj]
+
+
